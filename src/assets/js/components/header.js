@@ -13,10 +13,10 @@ export function setupHeader(element, title) {
                 <a class="block py-2 px-3 rounded-sm md:bg-transparent text-blue-950 md:p-0 dark:text-white md:dark:text-blue-500" href="/">Home</a>
               </li>
               <li>
-                <a class="block py-2 px-3 rounded-sm md:bg-transparent text-blue-950 md:p-0 dark:text-white md:dark:text-blue-500" href="/about">About</a>              
+                <a class="block py-2 px-3 rounded-sm md:bg-transparent text-blue-950 md:p-0 dark:text-white md:dark:text-blue-500" href="/about.html">About</a>              
               </li>
               <li>
-                <a class="block py-2 px-3 rounded-sm md:bg-transparent text-blue-950 md:p-0 dark:text-white md:dark:text-blue-500" href="/blog/article">Article</a>
+                <a class="block py-2 px-3 rounded-sm md:bg-transparent text-blue-950 md:p-0 dark:text-white md:dark:text-blue-500" href="/blog/article.html">Article</a>
               </li>
             </ul>             
           </div>
